@@ -1,0 +1,157 @@
+id,question,ground_truth,final_answer,analyst_facts,correct,success,time_sec
+0,what is rba,"Results-Based Accountability is a disciplined way of thinking and taking action that communities can use to improve the lives of children, youth, families, adults and the community as a whole.","RBA stands for Risk-Based Authentication, a method of applying varying levels of stringency to authentication processes based on the likelihood of system compromise. It can be categorized as user-dependent or transaction-dependent and is used for risk management and analysis to prevent unauthorized access. RBA is a security measure that can be applied to systems to enhance their security.","• RBA stands for Risk-Based Authentication.
+• RBA is a method of applying varying levels of stringency to authentication processes based on the likelihood of system compromise.
+• RBA can be categorized as user-dependent or transaction-dependent.
+• RBA is used for risk management and analysis.
+• RBA is a security measure that can be applied to systems to prevent unauthorized access.",False,True,1.03
+1,was ronald reagan a democrat,Yes,"Ronald Reagan was a member of the Democratic Party in his younger years, but he switched parties to the Republican Party in 1962, at the age of 51. He did not support the Democratic Party in the 1980 and 1984 elections, instead campaigning as a Republican and being reelected as President in 1984. This indicates that he was not a Democrat during his presidential terms.","• Ronald Reagan was a member of the Democratic Party in his younger years.
+• He switched parties to the Republican Party in 1962, at the age of 51.
+• He campaigned for Democratic candidates before becoming a Republican.
+• He did not support the Democratic Party in the 1980 and 1984 elections.
+• He was reelected as a Republican President in 1984, defeating Walter Mondale.",False,True,0.668
+2,how long do you need for sydney and surrounding areas,20-25 minutes,"Based on the provided context, it is recommended to spend at least a week to see many of the sights of Sydney and its surrounding areas, which cover a large area of 12,145 km² (4,689 mi²). This timeframe allows for exploration of the Central Coast, Blue Mountains, and national parks, as well as urban areas. The area can be explored by bike or by train, with some routes taking approximately 20-25 minutes.","• The Sydney Statistical Division, used for census data, covers an area of 12,145 km² (4,689 mi²).
+• This area includes the Central Coast and Blue Mountains as well as broad swathes of national park and other non-urban land.
+• A week is recommended to see many of the sights of Sydney and its surrounds.
+• The area can be explored by bike, with much of it being parkland.
+• A direct train from the city to Concord West station takes approximately 20-25 minutes.",True,True,1.201
+3,price to install tile in shower,$11 to $22 per square foot,"The average cost to install tile in a shower is $25 per square foot, with a total installation cost of around $2,000 for a medium-sized shower. However, costs can vary depending on the type of tile used, with ceramic tile installation ranging from $11 to $22 per square foot. Higher-end tile materials like granite or marble can increase the installation cost to $2,500 to $5,000 or more for a standard 3′ x 5′ shower.","• The average cost to install tile in a shower is $25 per square foot.
+• For a medium-sized shower, the total installation cost can be around $2,000.
+• The cost of installation can range from $11 to $22 per square foot for ceramic tile.
+• Higher-end tile materials like granite or marble can increase the installation cost to $2,500 to $5,000 or more for a standard 3′ x 5′ shower.",True,True,0.8
+4,why conversion observed in body,Due to symptoms in the body,"Conversion disorder is a type of somatoform disorder where physical symptoms, such as blindness, paralysis, tremors, and loss of feeling, occur without a medical explanation. These symptoms are not intentional or under conscious control of the patient and cannot be explained by a medical condition. They may occur together in a person with conversion disorder, including symptoms that resemble fainting spells or seizures. The exact cause of conversion disorder is not fully understood, but it is believed to be related to a mental condition.","• Conversion disorder is a type of somatoform disorder where physical symptoms cannot be explained by a medical condition.
+• The symptoms of conversion disorder are not intentional or under conscious control of the patient.
+• Common symptoms include blindness, paralysis, tremors, loss of feeling, loss of sense of smell, and symptoms that resemble fainting spells or seizures.
+• These symptoms occur without a medical explanation.
+• They may occur together in a person with conversion disorder.",False,True,6.023
+5,where are the lungs located in the back,Inside the rib cage.,"The lungs are located on the right and left side of the body, just up from the waistline, and are positioned inside the ribcage, from the chest in. They are situated near the backbone on either side, separated from the back by the ribcage and large blood vessels. The heart sits in the space between the lungs. This positioning allows for the lungs to expand and contract while maintaining a safe distance from the spine.","• The lungs are located on the right and left side of the body, just up from the waistline.
+• The lungs are inside the ribcage, from the chest in.
+• The lungs are located near the backbone on either side.
+• The heart sits in the space between the lungs.
+• The lungs are separated from the back by the ribcage and large blood vessels.",False,True,9.084
+6,cost to get a patent,"The most expensive patents are international patents, which can run up to $100,000 or higher.Domestically the costs can be $10,000 or above.","The cost to get a patent can range from $10,000 to $100,000 or higher, depending on the complexity of the invention and the intended market. Attorney fees for a simple patent application can range from $5,000 to $7,000. Additionally, prosecuting a patent application domestically can cost up to $10,000, and worldwide patent rights can cost $100,000 or more. Post-filing costs can add an additional $5,000 to $7,500.","• The cost of a patent can range from $10,000 to $100,000 or higher, depending on the complexity of the invention and the intended market.
+• Attorney fees for a simple patent application can range from $5,000 to $7,000.
+• The cost of prosecuting a patent application domestically can be up to $10,000.
+• Worldwide patent rights can cost $100,000 or more.
+• Post-filing costs for prosecution and issue fees can add an additional $5,000 to $7,500.",False,True,10.173
+8,best tragedies of ancient greece,"Sophocles, Aeschylus and Euripides","The best tragedies of ancient Greece are attributed to the three great tragedians: Aeschylus, Sophocles, and Euripides. These playwrights were famous celebrities in ancient Greece and competed in festivals with their plays, with the best play receiving an award. Unfortunately, only 32 tragedies have survived from their works, with 7 from Aeschylus and Sophocles each, and 19 from Euripides. These surviving tragedies are considered the most representative of ancient Greek tragedy.","• Aeschylus, Sophocles, and Euripides are considered the three great tragedians of ancient Greece.
+• Only 32 tragedies have survived from the works of these three tragedians, with 7 from Aeschylus and Sophocles each, and 19 from Euripides.
+• The surviving tragedies include at least one satyr play from Euripides.
+• Aeschylus, Sophocles, and Euripides were famous celebrities in ancient Greece and competed in festivals with their plays.
+• The surviving tragedies from these three tragedians are considered the foundation of modern theatre.",True,True,10.373
+9,what is a conifer,A tree or shrub which produces distinctive cones as part of its sexual reproduction.,"A conifer is a tree or shrub that produces cones as part of its sexual reproduction, classified among the gymnosperms. They are typically evergreen, with needle-shaped or scale-like leaves, and include forms with true cones and others with arillate fruit. Conifers can be trees or shrubs, and they have a wide variety of uses.","Here are the key facts:
+
+• Conifers are trees or shrubs that produce cones as part of their sexual reproduction.
+• They are classified among the gymnosperms.
+• Conifers are typically evergreen, although some individuals are deciduous.
+• They have needle-shaped or scale-like leaves.
+• Conifers include forms with true cones and others with arillate fruit.",False,True,10.155
+10,in animals somatic cells are produced by and gametic cells are produced by,Somatic cells are produced by mitosis and gametes produced by most organisms combine to form a zygote with n pairs of chromosomes.,"In animals, somatic cells are produced by mitosis. Gametic cells, also known as sex cells, are produced by meiosis. This process results in haploid gametes that are formed by meiosis.","• Somatic cells in animals are produced by mitosis.
+• Gametic cells (sex cells) in animals are produced by meiosis.
+• Gametes are haploid sex cells formed by meiosis.
+• Somatic cells are produced from preexisting cells.",False,True,7.874
+11,remembering the name of the author who wrote the cat in the hat,Dr. Seuss,"The author of the children's book ""The Cat in the Hat"" is Theodor Geisel, who wrote under the pen name Dr. Seuss. Dr. Seuss first published the book in 1957, aiming to teach children how to read. Theodor Geisel is also known as the pen name Dr. Seuss, and he was born on March 2, 1904.","• The Cat in the Hat was written by Dr. Seuss.
+• Dr. Seuss is the pen name of Theodor Geisel.
+• The Cat in the Hat was first published in 1957.
+• Theodor Geisel was born on March 2, 1904.
+• Dr. Seuss wrote The Cat in the Hat to teach children how to read.",True,True,9.472
+12,how long cooking chicken legs in the big easy,45 minutes to an hour,"Based on the provided documents, cooking chicken legs in the Big Easy requires 20 to 25 minutes until they are cooked through. The cooking time may vary depending on the size of the chicken legs. There is no specified cooking time for a whole chicken in the Big Easy, but it is mentioned that cooking time for a whole chicken in the oven is 1 hour and 15 minutes to 2 hours.","• Cooking chicken legs in a pan (presumably a Big Easy) requires 20 to 25 minutes until they are cooked through.
+• Cooking time may vary depending on the size of the chicken legs.
+• Cooking chicken legs in the oven (not the Big Easy) requires 35 to 45 minutes.
+• Cooking time for a whole chicken in the Big Easy is not specified in the provided documents.
+• Cooking time for a whole chicken in the oven is 1 hour and 15 minutes to 2 hours.",True,True,9.189
+13,average cost of heating per square foot,$6-$16 a square foot,"The average cost of heating per square foot for a hydronic (hot water) radiant floor heating system is $6-$12. This cost can vary depending on local rates, the number of temperature zones, and the overall size of the system. For a 1,500 square foot home, the total cost can range from $9,000 to $22,500 or more.","• The average cost of heating per square foot for a hydronic (hot water) radiant floor heating system is $6-$12.
+• The cost can vary depending on local rates, the number of temperature zones, and the overall size of the system.
+• For a 1,500 square foot home, the total cost can range from $9,000 to $22,500 or more.
+• The cost per square foot is the same across all documents ($6-$12).
+• The cost range is not affected by the document source (Document 1, 2, or 3).",False,True,9.073
+14,is mount pinatubo made of granite or basalt,Granite.,"Mount Pinatubo is composed of a variety of rocks, including granite, basalt, and others. While granite rocks are carried out from the magma chamber, the primary rock type found at Mount Pinatubo is dacite, with andesitic xenoliths. Basalt is also present, but it is not the primary rock type. The volcano's rock composition is diverse, with multiple types of rocks present.","Here are the key facts extracted from the documents:
+
+• The primary rock type found at Mount Pinatubo is dacite, with andesitic xenoliths.
+• The volcano has a large assortment of rocks, including granite, basalt, and others.
+• Granite rocks are carried out from the magma chamber.
+• Basalt is one of the rocks found at Mount Pinatubo.
+• The primary rock types mentioned are dacite and andesite, with granite and basalt also present.",False,True,10.246
+15,concrete pads cost,$4.64 - $6.36,"The estimated cost to install a concrete pad ranges between $4.64 - $6.36 per square foot for a basic 120 square foot project. This cost includes the average cost of additional materials, which is $3.44 per finished square foot. Labor costs are not included in this estimate, but hiring professionals can add around $54.50 per hour to the total cost.","• The average cost of additional materials for a concrete pad is $3.44 per finished square foot.
+• The average cost of labor to install a concrete pad is $54.50 per hour.
+• The estimated cost to install a concrete pad ranges between $4.64 - $6.36 per square foot for a basic 120 square foot project.
+• Hiring professionals to pour a concrete pad can add around $1,400 to the bill for a 2-day project.
+• The cost of concrete, reinforcement, excavation, and fill sand are not included in the labor costs.",True,True,9.487
+16,what kind of organism is a black damsel,Fish,"The black damsel is a type of fish that belongs to the family Pomacentridae, specifically the genus Dascyllus. It is also known as the Three Striped Damselfish or Humbug Dascyllus. This fish has three bold black bands separated by white bands and is a popular marine aquarium pet. It is a relatively small fish, typically growing up to 3.9 inches in length.","• The black damsel is a type of fish.
+• It belongs to the family Pomacentridae, specifically the genus Dascyllus.
+• It has three bold black bands separated by white bands.
+• The black damsel is also known as the Three Striped Damselfish or Humbug Dascyllus.
+• It is a popular marine aquarium pet.",True,True,8.153
+17,who coined the phrase it is what it is,In a New York State hermit's letter to the editor of an Adirondack Mountain newspaper.,"The phrase ""It is what it is"" was first referenced in 1943 by Noah John Rondeau, a New York State hermit, in a letter to the editor of an Adirondack Mountain newspaper. Rondeau used the phrase to conclude his letter, implying acceptance of a situation as it is. This marks the first recorded use of the phrase.","• The phrase ""It is what it is"" was first referenced in 1943.
+• The first recorded use of the phrase was in a letter to the editor of an Adirondack Mountain newspaper.
+• The author of the letter was Noah John Rondeau, a New York State hermit.
+• The phrase was used to conclude the letter.
+• The phrase was used in a context of accepting a situation as it is.",True,True,8.378
+18,what is oilskin fabric,A macintosh made from cotton fabric treated with oil and pigment to make it waterproof.,"Oilskin fabric is a type of waterproof material made by impregnating cotton fabric with oil. This treatment makes it resistant to water, making it a popular choice for waterproof garments and coverings, particularly among sailors. Oilskin fabric can be treated with various oils, including beeswax, to enhance its water-repellent properties. It can be used to make a range of garments, including hats and protective outerwear.","• Oilskin fabric is made by impregnating cotton fabric with oil to make it waterproof.
+• Oilskin fabric was a popular choice for waterproof garments and coverings before the development of synthetic fibers.
+• Sailors commonly used oilskin fabric for protection from the elements.
+• Oilskin fabric can be treated with oils like beeswax to enhance its water-repellent properties.
+• Oilskin fabric can be used to make a variety of garments, including hats and protective outerwear.",False,True,9.08
+19,how long is german measles contagious,7 days before to 7 days after the rash appears,"The German measles are contagious for a total of 14 days, starting 7 days before the rash appears and ending 7 days after the rash appears. This contagious period can also extend up to 2 weeks after the rash clears. The virus is highly contagious and can be spread through inhalation or contact with infected secretions.","• The German measles are contagious for 7 days before the rash appears.
+• The German measles are contagious for 7 days after the rash appears.
+• The contagious period is a total of 14 days (7 days before and 7 days after the rash appears).
+• The virus is highly contagious.
+• The contagious period can be up to 2 weeks after the rash clears.",True,True,8.314
+20,what is a camerata,"The Camerata are a group of four powerful and influential individuals in the city of Cloudbank. Established by Grant Kendrell and Royce Bracket, the group circumvents the official administration and democratic nature of Cloudbank, in order to establish some form of stability in the ever-changing city.","A Camerata refers to a small chamber orchestra or choir, particularly the Florentine Camerata, an Italian musical association of the late sixteenth century. The term originated from the Latin word ""cameratus,"" meaning ""arched roof."" Additionally, Camerata can also refer to the largest order of crinoids, including Paleozoic species with specific characteristics. In broader contexts, Camerata can also mean a dormitory or comrade in Italian.","• Camerata can refer to a small chamber orchestra or choir.
+• The term ""Camerata"" originated from the Latin word ""cameratus,"" meaning ""arched roof.""
+• In music, the Florentine Camerata was an Italian musical association of the late sixteenth century.
+• Camerata can also refer to the largest order of crinoids, including Paleozoic species with specific characteristics.
+• The term ""Camerata"" has multiple meanings, including a dormitory or comrade in Italian.",False,True,8.43
+21,how long does it take to bake a pound cake,An hour to 1 hour 15 minutes.,"Based on the provided context, a pound cake typically takes 1 hour and 15 minutes to bake in a slow oven (300-325°F). However, baking time may vary depending on the oven's performance, and some recipes may require up to 1½ hours. At 300°F, a pound cake can be baked in 75 minutes, but this is not a standard temperature for baking a pound cake.","• A pound cake typically takes 1 hour and 15 minutes to bake in a slow oven (300-325°F).
+• A pound cake recipe may require 1½ hours in a slow oven.
+• A pound cake can be baked in 75 minutes at 300°F, but oven performance may vary.
+• A cake in a 9x9 pan typically takes 35-40 minutes to bake at 350°F.
+• A general rule of thumb is to bake most cakes at 375°F for at least 45 minutes.",False,True,11.241
+22,what is the maximum dose of subutex,8 mg on the first day and 16 mg (the full dosage) on the second day.,"The maximum dose of Subutex varies across different guidelines and sources. According to the British National Formulary (BNF), the maximum dose is 32 mg, while the Royal College of General Practitioners (RCGP) guidelines recommend a maximum dose of 24 mg. Additionally, clinical guidelines suggest a maximum dose of 16 mg. However, a maximum daily dosage of up to 24 mg/day is allowed for 90 consecutive days.","• The initial dose for treating opioid dependence is 8 mg on the first day and 16 mg on the second day.
+• A maximum daily dosage of up to 24 mg/day is allowed for 90 consecutive days.
+• The maximum dose in the BNF (British National Formulary) is 32 mg.
+• The maximum dose in the RCGP (Royal College of General Practitioners) guidelines is 24 mg.
+• The maximum dose in clinical guidelines is 16 mg.",False,True,9.483
+23,salary difference in same team,"$56,000",Insufficient context to determine the salary difference within the same team. The provided documents do not contain information about salary differences within the same team.,"Here are the key facts extracted from the documents:
+
+• The salary floor is 89% of the cap, effective from 2013.
+• In 2011, teams could designate up to 3 players to receive a $1 M cap credit, with repayment required.
+• The salary cap was set at $39 million per team for the 2005-06 NHL season.
+• The salary floor is $16 million below the cap, with the 2011-12 minimum being $48.3 million.
+• The salary floor is 89% of the cap for most teams, but varies for some teams (e.g. Greater Western Sydney).",False,True,11.31
+24,what was tet,"The Tet Offensive was a military campaign during the Vietnam War that began on January 31, 1968 by the forces of the National Liberation Front for South Vietnam. ","The Tet Offensive was a military campaign during the Vietnam War that began on January 31, 1968, led by the National Liberation Front for South Vietnam, with the purpose of displacing the invading army and regaining control of the country. It involved surprise attacks by the Vietcong and North Vietnamese forces on cities, towns, and hamlets in South Vietnam. The Tet Offensive is considered a turning point in the Vietnam War.","• The Tet Offensive began on January 31, 1968.
+• The Tet Offensive was a military campaign by the National Liberation Front for South Vietnam.
+• The purpose of the Tet Offensive was to displace the invading army in South Vietnam and regain control of the country.
+• The Tet Offensive involved surprise attacks by the Vietcong and North Vietnamese forces on cities, towns, and hamlets in South Vietnam.
+• The Tet Offensive is considered a turning point in the Vietnam War.",True,True,6.671
+26,what energy is used in photosynthesis,"Photosynthesis is a process used by plants and other organisms to convert light energy, normally from the Sun, into chemical energy that can be later released to fuel the organisms' activities.","The energy used in photosynthesis is light energy, typically from the Sun. This light energy is converted into chemical energy, which is stored in the form of glucose (sugar) and oxygen. Photosynthesis occurs within the chloroplasts in plant leaves, where light energy is converted into chemical energy.","• Photosynthesis converts light energy into chemical energy.
+• The light energy used in photosynthesis is typically from the Sun.
+• Photosynthesis produces glucose (sugar) and oxygen as byproducts.
+• Chloroplasts in plant leaves are where photosynthesis typically occurs.
+• The process involves converting light energy into chemical energy.",False,True,8.945
+27,"The smallest blood vessels in your body,where gas exchange occurs are called",Capillaries.,"The smallest blood vessels in the body, where gas exchange occurs, are called capillaries. Capillaries are responsible for absorbing oxygen into the bloodstream and removing deoxygenated red blood cells. They are the sites of gas exchange between the tissues, facilitating the exchange of oxygen and carbon dioxide.","• The smallest blood vessels in the body are called capillaries.
+• Gas exchange occurs in the capillaries.
+• Capillaries are responsible for absorbing oxygen into the bloodstream.
+• Capillaries are also responsible for removing deoxygenated red blood cells.
+• Capillaries are the sites of gas exchange between the tissues.",True,True,6.947
+28,what is rappelling,Rappelling is the process of coming down from a mountain that is usually done with two pieces of rope.,"Rappelling is the process of descending a vertical cliff or wall using a doubled rope fixed to a higher point and wrapped around the body. It is typically done with two pieces of rope and requires a natural anchor or set of bolts for security. An experienced rock climber is often needed for assistance. Rappelling is also known as ""abseil"" in some contexts.","• Rappelling is the process of coming down from a mountain.
+• It is usually done with two pieces of rope.
+• A natural anchor or a set of bolts is used to secure the rope.
+• An experienced rock climber is often needed for assistance.
+• Rappelling is also known as ""abseil"" in some contexts.",False,True,7.16
+29,what does a brewery representative do,They are the soldiers on the ground that Boost Beer Sales.Selling Beer is by far one of the most amazing jobs that any person can have.,"A Brewery Representative is responsible for boosting beer sales by selling and marketing a product, specifically beer. They typically require 2+ years of sales experience and often have a passion for craft beer and sales. The average salary for a Brewery Representative is $63,000, which can vary based on company, location, industry, experience, and benefits.","Here are the key facts:
+
+• A Brewery Representative is responsible for boosting beer sales.
+• They typically require 2+ years of sales experience.
+• The role involves selling and marketing a product, specifically beer.
+• The average salary for a Brewery Representative is $63,000.
+• They often have a passion for craft beer and sales.",False,True,7.974
+30,how long will i be in hospital after a gallbladder surgery last,An overnight stay for a keyhole surgery and three to five days stay for an open surgery.,"Based on the provided context, the length of hospital stay after gallbladder surgery can vary depending on the type of surgery. For laparoscopic gallbladder surgery, patients are usually home within 24 hours, but may stay 1 or 2 days in the hospital in some cases. In contrast, patients undergoing open cholecystectomy are often in the hospital for 3-7 days. Overall, the hospital stay is typically short, lasting 1-2 days for laparoscopic surgery.","• Laparoscopic gallbladder surgery patients are usually home within 24 hours.
+• Some patients may need to stay overnight in the hospital.
+• Patients undergoing open cholecystectomy are often in the hospital for 3-7 days.
+• People who have laparoscopic gallbladder surgery may stay 1 or 2 days in the hospital.
+• Recovery time for laparoscopic surgery is generally 7-10 days.",False,True,9.539
+31,at what age does medicare begin,65,"Medicare typically begins when an individual turns 65 years old. For most people, coverage starts on the first day of the month they turn 65. However, it can start earlier if the individual is disabled under Social Security definitions and receiving SSDI, or if they have ALS or ESRD. Additionally, individuals can sign up for Medicare starting three months before their 65th birthday.","• For most people, Medicare starts when you turn age 65.
+• Medicare can start earlier if you are disabled under Social Security definitions and are receiving SSDI.
+• Medicare can also begin before age 65 if you have ALS or ESRD.
+• You can sign up for Medicare starting three months before your 65th birthday.
+• Coverage can start as soon as the first day of your birthday month.",True,True,7.628
