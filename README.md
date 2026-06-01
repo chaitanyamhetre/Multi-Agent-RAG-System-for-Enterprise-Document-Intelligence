@@ -8,31 +8,33 @@ Deployed as a REST API with FastAPI and containerised with Docker.
 
 ## Architecture
 
+```
 User Query
-↓
+        ↓
 FastAPI REST Endpoint (POST /ask)
-↓
+        ↓
 LangGraph Orchestrator
-↓
+        ↓
 ┌─────────────────────────────────────────┐
-│  Retriever Agent                        │
+│            Retriever Agent              │
 │  → semantic vector search (FAISS)       │
 │  → returns top-3 relevant passages      │
 └─────────────────┬───────────────────────┘
-↓
+                  ↓
 ┌─────────────────────────────────────────┐
-│  Analyst Agent                          │
+│             Analyst Agent               │
 │  → extracts key facts from documents    │
 │  → bullet-point fact list               │
 └─────────────────┬───────────────────────┘
-↓
+                  ↓
 ┌─────────────────────────────────────────┐
-│  Synthesiser Agent                      │
+│           Synthesiser Agent             │
 │  → combines docs + facts                │
 │  → generates final grounded answer      │
 └─────────────────────────────────────────┘
-↓
-JSON Response
+                  ↓
+            JSON Response
+```
 
 ---
 
@@ -82,19 +84,6 @@ Evaluated on 30 MS MARCO QA pairs:
 | Success rate (valid final answer) | **100.0%** |
 | Avg response time per query | 7.80s |
 | Total evaluation time | 234.1s |
-
-### Comparison with single-agent baseline
-
-| Metric | Single Agent | Multi-Agent |
-|---|---|---|
-| Accuracy | 26% | **40%** |
-| Success rate | 68% | **100%** |
-| Avg time/query | 8.53s | 7.80s |
-
-The 100% success rate is the key result — every query reached a valid
-final answer with no timeouts or iteration failures. The specialised
-agent architecture handles diverse question types more robustly than
-a single ReAct agent.
 
 ---
 
@@ -146,21 +135,23 @@ curl -X POST "http://localhost:8000/ask" \
 ---
 
 ## Project Structure
+
+```
 Multi-Agent-RAG-System-for-Enterprise-Document-Intelligence/
 ├── agents/
-│   ├── retriever.py       # Retriever Agent — FAISS vector search
-│   ├── analyst.py         # Analyst Agent — fact extraction
-│   └── synthesiser.py     # Synthesiser Agent — answer generation
+│   ├── retriever.py        # Retriever Agent — FAISS vector search
+│   ├── analyst.py          # Analyst Agent — fact extraction
+│   └── synthesiser.py      # Synthesiser Agent — answer generation
 ├── tools/
-│   ├── retrieval_tool.py  # MCP-style vector search tool
-│   ├── calculator_tool.py # MCP-style calculator tool
-│   └── summarise_tool.py  # MCP-style summarisation tool
+│   ├── retrieval_tool.py   # MCP-style vector search tool
+│   ├── calculator_tool.py  # MCP-style calculator tool
+│   └── summarise_tool.py   # MCP-style summarisation tool
 ├── src/
-│   ├── graph.py           # LangGraph orchestration
-│   ├── api.py             # FastAPI REST wrapper
-│   ├── config.py          # configuration
-│   ├── data_loader.py     # MS MARCO dataset loading
-│   └── evaluate.py        # evaluation framework
+│   ├── graph.py            # LangGraph orchestration
+│   ├── api.py              # FastAPI REST wrapper
+│   ├── config.py           # configuration
+│   ├── data_loader.py      # MS MARCO dataset loading
+│   └── evaluate.py         # evaluation framework
 ├── notebooks/
 │   ├── 01_data_and_setup.ipynb
 │   ├── 02_agents_and_graph.ipynb
@@ -176,6 +167,7 @@ Multi-Agent-RAG-System-for-Enterprise-Document-Intelligence/
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
